@@ -1,0 +1,15 @@
+{
+  "name": "@qlack/qpubsub",
+  "version": "0.0.8",
+  "description": "A cross-frame pubsub library. QPubSub allows your application to utilise publish/subscribe messaging across different components and layers.",
+  "main": "qlack-pubsub.js",
+  "types": "qlack-pubsub.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EUROPEAN DYNAMICS SA.",
+  "license": "EUPL-1.2",
+  "dependencies": {
+    "lodash": "^4.17.13"
+  }
+}
